@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Inter:wght@300;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Inter:wght@300;900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1146px;
+    margin: 0 auto;
+}
+
+header {
+    background: #D9D9D9;
+    padding: 60px 0;
+    padding-bottom: 85px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+    margin: 0;
+    
+}
+
+.header-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.chois {
+    color:#FF31EA;
+}
+
+.header-info a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.chois a {
+    color:#FF31EA;
+}
+
+#rectangle1{
+    padding: 0px;
+	max-width: 1920px;
+	height: 7px;
+	background: #FF31EA;
+}
+
+#rectangle2{
+    padding: 0px;
+	width: 630px;
+	height: 1px;
+	background: #000000;
+}
+
+#rectangle3 {
+    position: relative;
+    padding: 0px;
+	width: 280px;
+	height: 20px;
+	background: #FF31EA;
+    margin-top: -18px;
+    margin-left: 550px;
+}
+ 
+
+.sec1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.imgg {
+    position: relative;
+    margin-bottom: -280px;
+    margin-left: 160px;
+}
+
+.texth2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 24px;
+    color:#4122FF;
+    margin-top: -80px;
+}
+
+.textp1 {
+    padding-top: 10px;
+    font-size: 24px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.texth1 {
+    max-width: 1146px;
+    margin: 0 auto;
+    font-family: 'Cormorant Garamond', serif;  
+    color:#FF31EA;
+    padding-top: 50px;
+    font-size: 24px;
+}
+
+.form1 {
+    padding-left: 40px;
+}
+
+
+.form1 p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.imgg2 {
+margin-right: 800px;
+}
+
+.img1 {
+    margin-top: -80px;
+}
